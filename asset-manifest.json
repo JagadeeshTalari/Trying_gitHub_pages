@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/JagadeeshTalari/trying_Build_version/static/css/main.b1cd4790.css",
+    "main.js": "/JagadeeshTalari/trying_Build_version/static/js/main.400bc49b.js",
+    "index.html": "/JagadeeshTalari/trying_Build_version/index.html",
+    "main.b1cd4790.css.map": "/JagadeeshTalari/trying_Build_version/static/css/main.b1cd4790.css.map",
+    "main.400bc49b.js.map": "/JagadeeshTalari/trying_Build_version/static/js/main.400bc49b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b1cd4790.css",
+    "static/js/main.400bc49b.js"
+  ]
+}
